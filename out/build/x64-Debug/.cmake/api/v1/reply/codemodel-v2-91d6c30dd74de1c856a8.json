@@ -237,7 +237,7 @@
 					[
 						0
 					],
-					"name" : "build_setup",
+					"name" : "pong",
 					"targetIndexes" : 
 					[
 						0
@@ -282,9 +282,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "lab_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab_1-Debug-6e03e802709fca1eccd6.json",
-					"name" : "lab_1",
+					"id" : "pong::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pong-Debug-bd5d2bcd6e554756b046.json",
+					"name" : "pong",
 					"projectIndex" : 0
 				},
 				{
